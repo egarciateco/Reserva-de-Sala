@@ -1,0 +1,5 @@
+{
+  "name": "Reserva de Sala",
+  "description": "An application to book meeting rooms. It features a weekly calendar, user roles (administrator and common user), and persistent data storage. Administrators can manage users, sectors, and application settings like logo and background.",
+  "requestFramePermissions": []
+}
